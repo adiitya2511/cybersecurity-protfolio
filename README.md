@@ -1,22 +1,9 @@
-# Aditya | Cybersecurity Portfolio
+# Aditya Vishwakarma — Cybersecurity Portfolio
 
-## About Me
-Cybersecurity enthusiast focused on penetration testing, network security, ethical hacking, and security research.
+A personal cybersecurity portfolio website.
 
-## Skills
-- Linux
-- Networking
-- Python
-- Web Security
-- Penetration Testing
-- OSINT
-- CTFs
+## Run locally
+Open `index.html` in a browser.
 
-## Projects
-Coming soon...
-
-## CTFs & Labs
-Coming soon...
-
-## Contact
-GitHub: https://github.com/adiitya2511
+## Deploy
+This site is static HTML/CSS and can be deployed with GitHub Pages.
